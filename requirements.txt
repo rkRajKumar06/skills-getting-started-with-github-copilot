@@ -1,3 +1,5 @@
+# Test dependencies
+pytest
 fastapi
 uvicorn
 httpx
